@@ -1,0 +1,22 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+  background-color: #fff;
+}
+.icon-quill {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+.icon-library {
+  width: 34px;
+  height: 32px;
+  background-position: -48px 0;
+}
+.icon-users {
+  width: 36px;
+  height: 32px;
+  background-position: -96px 0;
+}
+
